@@ -3,3 +3,4 @@ My name is Garrett Lee Hart. "3rdshift" and "thirdshift" are a usernames I start
 Need to know more?
 * [LinkedIn](https://www.linkedin.com/in/garrett-hart-9a693097/)
 * [Facebook](https://www.facebook.com/garretthart)
+* [Github](https://github.com/thirdshift)
